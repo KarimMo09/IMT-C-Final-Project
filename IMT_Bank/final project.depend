@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1651896250 source:e:\embedded\imt\c\final project\final project\main.c
+
+1651157465 e:\embedded\imt\c\final project\final project\std_types.h
+
+1651895409 source:e:\embedded\imt\c\final project\final project\bank.c
+	"Bank.h"
+	"Configurtion.h"
+
+1651891400 e:\embedded\imt\c\final project\final project\bank.h
+	<stdio.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Configurtion.h"
+
+1651895155 source:e:\embedded\imt\c\final project\final project\client.c
+	"Bank.h"
+	"Configurtion.h"
+
+1651894270 e:\embedded\imt\c\final project\final project\configurtion.h
+
+1651895409 source:e:\embedded\imt\c\final project\final project\admin.c
+	"Bank.h"
+	"Configurtion.h"
+
+1651896067 source:e:\embedded\imt\c\final project\final project\operations.c
+	"Bank.h"
+	"Configurtion.h"
+
